@@ -59,7 +59,7 @@ COLOR_MAP = {
     "tan":    "background-color: #f1c40f; color: black;",
     "其他":    "background-color: #2ecc71; color: white;",
     "FREE":   "background-color: #ffffff; color: black;",
-    "PAST":   "background-color: #FFFF00; color: yellow;",
+    "PAST":   "background-color: #ffffff; color: black;",
 }
 
 # --- 5. 核心邏輯函式 ---
