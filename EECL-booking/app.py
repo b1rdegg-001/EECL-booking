@@ -9,7 +9,7 @@ from datetime import datetime, timedelta
 SCOPE = ['https://www.googleapis.com/auth/spreadsheets', 
          'https://www.googleapis.com/auth/drive']
 
-"""99999"""
+"""99998889"""
 @st.cache_resource
 def init_connection():
     """初始化與 Google Sheets 的連線"""
